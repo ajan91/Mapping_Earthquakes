@@ -2,6 +2,13 @@
 
 # Purpose
 
+**Background**
+
+Basil and Sadhana like how you created your earthquake map with two different maps and the earthquake overlay. Now, Basil and Sadhana would like to see the earthquake data in relation to the tectonic plates’ location on the earth, and they would like to see all the earthquakes with a magnitude greater than 4.5 on the map, and they would like to see the data on a third map.
+
+**Purpose**
+To Add Tectonic Plate Data, Major Eathquake Data, and provide an additional map for the costumer.
+
 # Deliverable 1: Add Tectonic Plate Data
 
 **Deliverable 1 Requirements**
@@ -17,6 +24,7 @@
 
 
 1.4. The earthquake data and tectonic plate data displayed on the map when the page loads
+![](Resources/D1.4.png)
 
 
 # Deliverable 2: Add Major Earthquake Data
@@ -37,6 +45,8 @@
 
 
 2.4. All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off
+![](Resources/D2.4.png)
+
 
 # Deliverable 3: Add an Additional Map
 
@@ -49,3 +59,4 @@
 
 
 3.3. All the earthquake data and tectonic plate data are displayed on the all maps of the webpage
+![](Resources/D3.3.png)
